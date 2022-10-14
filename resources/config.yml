@@ -1,0 +1,5 @@
+#Worlds : worlds where NoHunger should be active. Set to null for it to be active in every world.
+worlds: null
+
+#FoodDiff : food difference. Set to 0 for no difference. Will make it so players will have the value entered removed from their hunger bar.
+food-diff: 0
