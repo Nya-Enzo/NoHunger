@@ -1,0 +1,5 @@
+name: NoHunger
+description: Plugin allowing you to remove hunger loss.
+version: 1.0.0
+api: 4.9.0
+main: Enzo\NoHunger\NoHunger
